@@ -30,9 +30,9 @@ first is to extract the features of each pixel. Based on the features, the secon
 2. Install my modified **Caffe** and **matcaffe** ([Download](https://github.com/shihengcan/caffe-2017))
 
 ### 3.2. Data preparation
-1. Download the datasets (NYU_Depth_v2(https://1drv.ms/u/s!AvfIPDGY8WV2imwRXhggFQpudWqQ?e=ztcgPu))
+1. Download the datasets ([NYU_Depth_v2](https://1drv.ms/u/s!AvfIPDGY8WV2imwRXhggFQpudWqQ?e=ztcgPu))
 2. Please uncompress the datasets and put them in folder `./data`
-3. Download models (initialization_model(https://1drv.ms/u/s!AvfIPDGY8WV2im1Y2Jpl4c6k9sdl?e=npgoFE)，trained_on_NYU_Depth_v2(https://1drv.ms/u/s!AvfIPDGY8WV2im67cRYdJdDkqUC1?e=4jcxQi))
+3. Download models ([initialization_model](https://1drv.ms/u/s!AvfIPDGY8WV2im1Y2Jpl4c6k9sdl?e=npgoFE)，[trained_on_NYU_Depth_v2](https://1drv.ms/u/s!AvfIPDGY8WV2im67cRYdJdDkqUC1?e=4jcxQi))
 4. Please put models in folder `./models`
 
 ### 3.3. Training
