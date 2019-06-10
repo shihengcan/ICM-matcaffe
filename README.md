@@ -1,7 +1,7 @@
 # Scene Parsing via Integrated Classification Model and Variance-Based Regularization
 
 The code for the following paper:
-* Hengcan Shi, Hongliang Li, Qingbo Wu, Zichen Song “Scene Parsing via Integrated Classification Model and Variance-Based Regularization”, IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**). Long Beach, the U.S. June 16-20, 2019. 
+* Hengcan Shi, Hongliang Li, Qingbo Wu, Zichen Song, “Scene Parsing via Integrated Classification Model and Variance-Based Regularization”, IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**). Long Beach, the U.S. June 16-20, 2019. 
 
 ## Citation
 ```
@@ -22,8 +22,8 @@ first is to extract the features of each pixel. Based on the features, the secon
 
 ## 3. Usage
 ### 3.1. Installation guide
-1. Install **Matlab**
-2. Install my modified **Caffe** and **matcaffe** (https://github.com/shihengcan/caffe-2017)
+ 1. Install **Matlab** (The version lower than 2014b is highly recommended. Higher versions may be incompatible with Caffe.)
+2. Install my modified **Caffe** and **matcaffe** ([Download](https://github.com/shihengcan/caffe-2017))
 
 ## Acknowledgement
 Thanks the evaluation code from [sceneparsing](https://github.com/CSAILVision/sceneparsing)!
