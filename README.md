@@ -18,7 +18,11 @@ Existing deep-learning-based methods usually use one general classifier to recog
 the one hand, the integrated classification model contains multiple classifiers, not only the general classifier but also a refinement classifier to distinguish the confusing categories. On the other hand, the variance-based regularization differentiates the scores of all categories as large as possible to reduce misclassifications. Specifically, the integrated classification model includes three steps. The
 first is to extract the features of each pixel. Based on the features, the second step is to classify each pixel across all categories to generate a preliminary classification result. In the third step, we leverage a refinement classifier to refine the classification result, focusing on differentiating the high-preliminary-score categories. An integrated loss with the variance-based regularization is used to train the model.
 
+![image](illustration/overview.png)
+
 ## 2. Results
+
+![image](illustration/results_NYU.png)
 
 ## 3. Usage
 ### 3.1. Installation
