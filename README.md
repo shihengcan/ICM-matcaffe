@@ -33,13 +33,13 @@ first is to extract the features of each pixel. Based on the features, the secon
 
 ### 3.3. Training
 1. Open the file `./net_train.m`
-2. Modify the configs, including the caffe path, ``opts.dataset'', ``opts.useGpus'' and others.
+2. Modify the configs, including the caffe path, opts.dataset, opts.useGpus and others.
 3. Run the file `./net_train.m`
 4. If you want to train on your own datasets, please modify files to fit your dataset and run the file `./generate_bicls_label.m` to generate labels for the binary classification.
 
 ### 3.4. Evaluation
 1. Open the file `./net_test.m`
-2. Modify the configs, including the caffe path, ``opts.dataset'', ``opts.useGpus'' and others.
+2. Modify the configs, including the caffe path, opts.dataset, opts.useGpus and others.
 3. Run the file `./net_test.m`
 
 ## Acknowledgement
