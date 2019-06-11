@@ -1,15 +1,16 @@
 # Scene Parsing via Integrated Classification Model and Variance-Based Regularization
 
 The code for the following paper:
-* Hengcan Shi, Hongliang Li, Qingbo Wu, Zichen Song, “Scene Parsing via Integrated Classification Model and Variance-Based Regularization”, IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**). Long Beach, the U.S. June 16-20, 2019. 
+* Hengcan Shi, Hongliang Li, Qingbo Wu, Zichen Song, “Scene Parsing via Integrated Classification Model and Variance-Based Regularization”, IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**). Long Beach, the U.S. June 16-20, 2019. [PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Shi_Scene_Parsing_via_Integrated_Classification_Model_and_Variance-Based_Regularization_CVPR_2019_paper.pdf)
 
 ## Citation
 ```
-@inproceedings{shi2018key,
-  title={Scene Parsing via Integrated Classification Model and Variance-Based Regularization},
-  author={Shi, Hengcan and Li, Hongliang and Wu, Qingbo and Song, Zichen},
-  booktitle={IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
-  year={2019}
+@InProceedings{Shi_2019_CVPR,
+author = {Shi, Hengcan and Li, Hongliang and Wu, Qingbo and Song, Zichen},
+title = {Scene Parsing via Integrated Classification Model and Variance-Based Regularization},
+booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+month = {June},
+year = {2019}
 }
 ```
 
